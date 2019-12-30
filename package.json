@@ -31,6 +31,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "jimp": "^0.6.8",
+    "url-exists": "^1.0.3",
     "url-exists-deep": "^1.1.1"
   }
 }
